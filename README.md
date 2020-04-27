@@ -1,11 +1,10 @@
 ## Metropolis
 
+**FORKED CHANGE**
 
-**IMPORTANT NOTICES FOR VERSION 1.0**
+Forking this to save this repository as a base for me, and to include a version of this template that I modified to better fit into my university's (Hochschule Hannover) corporate design.
 
-* The package and theme name changed from *m* to *metropolis*!
-* The `title format` values have been restructured. Please refer to the
-  [manual][].
+Please look into the branch hsh-metropolis.
 
 ---
 
